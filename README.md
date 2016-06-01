@@ -9,6 +9,8 @@
 
 
                                    Too young, too simple. Sometimes, naive.
+                                   [BLOG](https://blog.vsoui.com)
+
 
 
 
