@@ -8,6 +8,7 @@
 
 ### 6月
 * [My frist Vue project](https://github.com/Hancoson/blog/issues/14)
+* [ECMAScript 6](https://github.com/Hancoson/front-end/blob/master/materials/es6.md)
 
 ### 4月
 * [记Chrome移动端浏览器渲染问题](https://github.com/Hancoson/blog/issues/13)
