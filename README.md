@@ -1,6 +1,6 @@
 ## [博客目录](https://github.com/Hancoson/blog/issues)
 
-> ##### 博客签名：每天成长一点点。
+> ##### 博客签名：每天（月）成长一点点。
 
 > ##### _My Blog »_ [VSOUI](http://www.vsoui.com)
 
