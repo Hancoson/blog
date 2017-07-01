@@ -6,6 +6,9 @@
 
 ## 2017
 
+### 7月
+* [React compontent 分解技能【翻译】](https://github.com/Hancoson/blog/issues/15)
+
 ### 6月
 * [My frist Vue project](https://github.com/Hancoson/blog/issues/14)
 * [ECMAScript 6](https://github.com/Hancoson/front-end/blob/master/materials/es6.md)
