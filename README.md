@@ -6,6 +6,9 @@
 
 ## 2017
 
+### 10月
+* [JS 常见算法积累（一）](https://github.com/Hancoson/blog/issues/17)
+
 ### 7月
 * [React中的演示（UI）组件和容器组件](https://github.com/Hancoson/blog/issues/16)
 * [React compontent 分解技能【翻译】](https://github.com/Hancoson/blog/issues/15)
