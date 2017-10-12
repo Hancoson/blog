@@ -7,6 +7,7 @@
 ## 2017
 
 ### 10月
+* [探讨团队项目代码仓库管理](https://github.com/Hancoson/blog/issues/18)
 * [JS 常见算法积累（一）](https://github.com/Hancoson/blog/issues/17)
 
 ### 7月
