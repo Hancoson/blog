@@ -7,6 +7,7 @@
 ## 2017
 
 ### 10月
+* [一个简单的Node应用的开发历程](https://github.com/Hancoson/blog/issues/19)
 * [探讨团队项目代码仓库管理](https://github.com/Hancoson/blog/issues/18)
 * [JS 常见算法积累（一）](https://github.com/Hancoson/blog/issues/17)
 
