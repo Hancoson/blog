@@ -7,6 +7,9 @@
 
 ## 2017
 
+### 12月
+* [微信小程序开发总结](https://github.com/Hancoson/blog/issues/21)
+
 ### 11月
 * [React-Native 环境安装及调试（Mac版）](https://github.com/Hancoson/blog/issues/20)
 
