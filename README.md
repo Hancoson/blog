@@ -8,6 +8,7 @@
 ## 2017
 
 ### 12月
+* [Redux 和 Mobx 哪个更适合你？](https://github.com/Hancoson/blog/issues/23)
 * [Webp 在项目中的尝试](https://github.com/Hancoson/blog/issues/22)
 * [微信小程序开发总结](https://github.com/Hancoson/blog/issues/21)
 
