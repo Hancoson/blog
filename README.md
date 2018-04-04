@@ -5,6 +5,11 @@
 
 > ##### _My Blog »_ [VSOUI](http://www.vsoui.com)
 
+## 2018
+
+### 4月
+* [单页面应用的权限管理](https://github.com/Hancoson/blog/issues/26)
+
 ## 2017
 
 ### 12月
