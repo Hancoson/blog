@@ -8,6 +8,7 @@
 ## 2018
 
 ### 4月
+* [全新的 React Context API](https://github.com/Hancoson/blog/issues/27)
 * [单页面应用的权限管理](https://github.com/Hancoson/blog/issues/26)
 
 ## 2017
