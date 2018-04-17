@@ -59,3 +59,10 @@
 * [js中的event.currenttarget 和 this的区别](https://github.com/Hancoson/blog/issues/2)
 * [h5文档规范（kaowo）](https://github.com/Hancoson/blog/issues/1)
 
+---
+
+<div align=center>
+<p></p>
+<img src='http://www.vsoui.com/img/qrcode430.jpg' align='center' width='180'/>
+<p>扫码获取最新博客推送</p>
+</div>
