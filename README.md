@@ -1,4 +1,8 @@
 ## [博客目录](https://github.com/Hancoson/blog/issues)
+
+<img src='http://www.vsoui.com/img/qrcode430.jpg' align='right' width='150'/>
+
+
 [![GitHub issues](https://img.shields.io/github/issues/Hancoson/blog.svg)](https://github.com/Hancoson/blog/issues)
 
 > ##### 博客签名：每天（月）成长一点点。
