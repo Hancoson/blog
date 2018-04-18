@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "log4js": "^2.5.3"
+  }
+}
