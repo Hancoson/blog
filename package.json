@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "log4js": "^2.5.3"
+    "log4js": "^2.5.3",
+    "node-fetch": "^2.1.2"
   }
 }

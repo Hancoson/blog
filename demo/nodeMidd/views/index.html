@@ -1,0 +1,24 @@
+<html>
+
+<head>
+  <title>
+    <%= title %>
+  </title>
+</head>
+
+<body>
+  <div id="app"></div>
+
+</body>
+<script src="https://cdn.bootcss.com/jquery/3.0.0/jquery.min.js"></script>
+<script>
+  $.ajax({
+    url: '/api',
+    method: 'get',
+    context: document.body
+  }).done(function () {
+    $('#app').addClass("done");
+  });
+</script>
+
+</html>
