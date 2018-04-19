@@ -5,8 +5,6 @@
  */
 var index = require('./../controllers/index')
 module.exports = (app) => {
-  app.get('/', function (req, res, next) {
-    res.render('index', { title: 'Express' });
-  });
-  app.get('/api', index.get);
+  app.get('/', index.index);
+  app.get('/api/get', index.get);
 }

@@ -5,10 +5,13 @@
  */
 var Indexs = require('./../models/index')
 var Index = {
+  //get '/'
+  index: function (req, res, next) {
+    res.render('index', { title: 'Express' });
+  },
   get: function (req, res) {
-    console.log(req.body, res)
-    Indexs.get(req, function (err, data) {
-      console.log(err, data)
+    Indexs.get(req.query, function (err, data) {
+      console.log(req.query, err, data)
       if (err) {
         res.json({ status: 500, msg: err })
       } else {

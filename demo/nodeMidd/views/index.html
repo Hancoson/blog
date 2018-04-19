@@ -13,9 +13,9 @@
 <script src="https://cdn.bootcss.com/jquery/3.0.0/jquery.min.js"></script>
 <script>
   $.ajax({
-    url: '/api',
+    url: '/api/get',
     method: 'get',
-    context: document.body
+    data: { t: 20131119 }
   }).done(function () {
     $('#app').addClass("done");
   });

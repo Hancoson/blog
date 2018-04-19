@@ -4,6 +4,7 @@ npm-debug.log*
 .DS_Store
 .vscode/
 **/node_modules/
+**/logs/*.log
 
 
 
