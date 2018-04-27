@@ -16,8 +16,9 @@
     url: '/api/get',
     method: 'get',
     data: { t: 20131119 }
-  }).done(function () {
+  }).done(function (res) {
     $('#app').addClass("done");
+    console.log(res)
   });
 </script>
 

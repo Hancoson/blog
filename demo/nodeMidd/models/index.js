@@ -10,6 +10,7 @@ var errCode = require('./../config/errCode')
 var Index = {
   get: function (req, callback) {
     myFetch('https://news-at.zhihu.com/api/4/news/before/' + req.t, {}, function (err, data) {
+      console.log(err, data)
       if (!err) {
         callback(null, data)
       } else {

@@ -11,7 +11,6 @@ var Index = {
   },
   get: function (req, res) {
     Indexs.get(req.query, function (err, data) {
-      console.log(req.query, err, data)
       if (err) {
         res.json({ status: 500, msg: err })
       } else {

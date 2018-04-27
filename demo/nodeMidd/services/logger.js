@@ -21,8 +21,8 @@ log4js.configure({
   },
   replaceConsole: true
 });
-var logger = log4js.getLogger('logInfo');
+var logInfo = log4js.getLogger('logInfo');
 
 module.exports = {
-  express: log4js.connectLogger(logger, { level: 'info' })
+  express: log4js.connectLogger(logInfo, { level: 'info' })
 };
