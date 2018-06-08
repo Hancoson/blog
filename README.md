@@ -12,7 +12,7 @@
 ## 2018
 
 ### 6月
-* [Async/await 函数详解 ](https://github.com/Hancoson/blog/issues/31)
+* [Async/await 函数简介 ](https://github.com/Hancoson/blog/issues/31)
 
 ### 5月
 * [学会这个，前端也可以和PHP程序员一样了](https://github.com/Hancoson/blog/issues/30)
