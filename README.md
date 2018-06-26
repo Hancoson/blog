@@ -78,3 +78,8 @@
 <img src='http://www.vsoui.com/img/qrcode430.jpg' align='center' width='180'/>
 <p>扫码获取最新博客推送</p>
 </div>
+
+---
+
+文本内容和图片使用 [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/cn) 授权发布。即，任何人可以自由阅读、复制、发行，或通过信息网络传播本作品，或创作演绎作品，但必须 **保留作者署名** （Hancoson），以及指向该原文（<http://vsoui.com>）的 **链接** ，并 **不可用于商业用途** ；若在该作品基础上进行演绎，则 **必须使用相同的协议** （署名-非商业性使用-相同方式共享 3.0）进行发布。
+
