@@ -11,6 +11,9 @@
 
 ## 2018
 
+### 7月
+* [Angular6 开发探索 - 知乎日报](https://github.com/Hancoson/blog/issues/32)
+
 ### 6月
 * [Async/await 函数简介 ](https://github.com/Hancoson/blog/issues/31)
 
