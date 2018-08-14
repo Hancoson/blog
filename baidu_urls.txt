@@ -1,1 +1,1 @@
-http://vsoui.com/2018/07/12/angular6-zhihuDaily-demo/
+http://vsoui.com/2018/08/14/git-submodule/
