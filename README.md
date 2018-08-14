@@ -11,6 +11,9 @@
 
 ## 2018
 
+### 8月
+* [Git 子模块](https://github.com/Hancoson/blog/issues/33)
+
 ### 7月
 * [Angular6 开发探索 - 知乎日报](https://github.com/Hancoson/blog/issues/32)
 
