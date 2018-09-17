@@ -11,6 +11,9 @@
 
 ## 2018
 
+### 9月
+* [VUE组件之间数据传递全集](https://github.com/Hancoson/blog/issues/34)
+
 ### 8月
 * [Git 子模块](https://github.com/Hancoson/blog/issues/33)
 
