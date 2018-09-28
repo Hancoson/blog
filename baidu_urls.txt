@@ -1,1 +1,1 @@
-http://vsoui.com/2018/08/14/git-submodule/
+http://vsoui.com/2018/09/20/data-transfer-between-vue-compontents/
