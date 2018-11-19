@@ -12,7 +12,7 @@
 ## 2018
 
 ### 11月
-* [javaScript 高阶函数理解与应用](https://github.com/Hancoson/blog/issues/36)
+* [JavaScript 高阶函数理解与应用](https://github.com/Hancoson/blog/issues/36)
 
 ### 9月
 * [如何做好 Git Commit message 规范化](https://github.com/Hancoson/blog/issues/35)
