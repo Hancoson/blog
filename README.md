@@ -11,6 +11,12 @@
 
 ## 2018
 
+### 12月
+* [npm vs yarn](https://github.com/Hancoson/blog/issues/37)
+
+### 11月
+* [JavaScript 高阶函数理解与应用](https://github.com/Hancoson/blog/issues/36)
+
 ### 9月
 * [如何做好 Git Commit message 规范化](https://github.com/Hancoson/blog/issues/35)
 * [VUE组件之间数据传递全集](https://github.com/Hancoson/blog/issues/34)
